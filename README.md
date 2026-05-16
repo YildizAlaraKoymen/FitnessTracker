@@ -9,6 +9,10 @@ FitnessTracker, React ve Bootstrap 5 ile hazirlanmis basit bir fitness takip uyg
 - Bootstrap 5
 - Netlify
 
+## Yayınlanmış Uygulama
+
+https://yildizalarakoymen.github.io/FitnessTracker/
+
 ## Proje Yapisi
 
 - `src/Components`: Form, liste ve istatistik bileşenleri
