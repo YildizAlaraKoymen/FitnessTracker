@@ -1,30 +1,30 @@
 # FitnessTracker
 
-FitnessTracker, React ve Bootstrap 5 ile hazırlanmış basit bir fitness takip uygulamasıdır. Kullanıcı antrenman ekleyebilir, kayıtları listeleyebilir, güncelleyebilir ve silebilir.
+FitnessTracker, React ve Bootstrap 5 ile hazirlanmis basit bir fitness takip uygulamasidir. Kullanici antrenman ekleyebilir, kayitlari listeleyebilir, guncelleyebilir ve silebilir.
 
-## Kullanılan Teknolojiler
+## Kullanilan Teknolojiler
 
 - React
 - Vite
 - Bootstrap 5
 - Netlify
 
-## Proje Yapısı
+## Proje Yapisi
 
 - `src/Components`: Form, liste ve istatistik bileşenleri
-- `src/Pages`: Sayfa bileşenleri
-- `src/Interfaces`: Veri modeli ve başlangıç verileri
+- `src/Pages`: Sayfa bilesenleri
+- `src/Interfaces`: Veri modeli ve baslangic verileri
 
-## Özellikler
+## Ozellikler
 
 - Antrenman ekleme
-- Antrenmanları listeleme
-- Var olan kaydı güncelleme
-- Kayıt silme
+- Antrenmanlari listeleme
+- Var olan kaydi guncelleme
+- Kayit silme
 - Toplam süre, kalori ve ortalama kalori özetleri
-- Kayıtları tarayıcının localStorage alanında saklama
+- Kayitlari tarayicinin localStorage alaninda saklama
 
-## Ekran Görüntüsü
+## Ekran Goruntusu
 
 ![FitnessTracker ana ekran](screenshots/fitness-tracker-home.png)
 
@@ -41,11 +41,11 @@ npm run dev
 npm run build
 ```
 
-Netlify için build komutu `npm run build`, yayın klasörü `dist` olarak ayarlanmıştır.
+Netlify icin build komutu `npm run build`, yayin klasoru `dist` olarak ayarlanmistir.
 
-## Teslim Notları
+## Teslim Notlari
 
-1. Projeyi GitHub'da public bir repository olarak yayınlayın.
-2. Netlify'da repository'yi bağlayın.
-3. Build komutu olarak `npm run build`, publish directory olarak `dist` kullanın.
+1. Projeyi GitHub'da public bir repository olarak yayinlayin.
+2. Netlify'da repository'yi baglayin.
+3. Build komutu olarak `npm run build`, publish directory olarak `dist` kullanin.
 4. GitHub ve Netlify linklerini proje teslim formuna ekleyin.
